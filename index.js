@@ -4,9 +4,9 @@ let germanButton = document.getElementById('German');
 let englandButton = document.getElementById('England');
 
 const regions = {
-    French: ["/pics/03.jpg", "/pics/03 (1).jpg", "/pics/03 (2).jpg", "/pics/03 (6).jpg", "/pics/03 (7).jpg", "/pics/03 (8).jpg"],
-    German: ['/pics/Germna_1.jpg', '/pics/Germna_2.jpg', '/pics/Germna_3.jpg', '/pics/Germna_4.jpg', '/pics/Germna_5.jpg', '/pics/Germna_6.jpg'],
-    England: ['/pics/French_1.jpg', '/pics/French_2.jpg', '/pics/French_3.jpg', '/pics/French_4.jpg', '/pics/French_5.jpg', '/pics/French_6.jpg']
+    French: ["./pics/03.jpg", "./pics/03 (1).jpg", "./pics/03 (2).jpg", "./pics/03 (6).jpg", "./pics/03 (7).jpg", "./pics/03 (8).jpg"],
+    German: ['./pics/Germna_1.jpg', './pics/Germna_2.jpg', './pics/Germna_3.jpg', './pics/Germna_4.jpg', './pics/Germna_5.jpg', './pics/Germna_6.jpg'],
+    England: ['./pics/French_1.jpg', './pics/French_2.jpg', './pics/French_3.jpg', './pics/French_4.jpg', './pics/French_5.jpg', './pics/French_6.jpg']
 };
 
 

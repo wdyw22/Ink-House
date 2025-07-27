@@ -241,7 +241,7 @@ main {
 
 /* promo */
 .promo {
-    background-image: url(/pics/pic_background.png);
+    background-image: url(./pics/pic_background.png);
     width: 1370px;
     height: 574px;
     margin-bottom: 70px;
@@ -336,7 +336,7 @@ main {
 }
 
 .profile-1 {
-    background-image: url(/pics/f6fee6c514ebcb03ed8077b32f5d7d413e915641.jpg);
+    background-image: url(./pics/f6fee6c514ebcb03ed8077b32f5d7d413e915641.jpg);
     width: 80px;
     height: 80px;
     border-radius: 50%;
@@ -346,7 +346,7 @@ main {
 }
 
 .profile-2 {
-    background-image: url(/pics/b02403e7422e0088452558fa092f0b94a33a6845.jpg);
+    background-image: url(./pics/b02403e7422e0088452558fa092f0b94a33a6845.jpg);
     width: 80px;
     height: 80px;
     border-radius: 50%;
@@ -360,7 +360,7 @@ main {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(/pics/36ce4ca195292e4a1552f645f987f189eb59e978.jpg);
+    background-image: url(./pics/36ce4ca195292e4a1552f645f987f189eb59e978.jpg);
     width: 80px;
     height: 80px;
     border-radius: 50%;
